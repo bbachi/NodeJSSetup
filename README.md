@@ -17,4 +17,3 @@
  2. Run the installer (.msi) and follow the prompts as shown in the following figure.
  
  ![Install wizard](/nodeinstall.PNG)
-  Format: ![Alt Text](url)
