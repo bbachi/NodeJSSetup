@@ -17,3 +17,13 @@
  2. Run the installer (.msi) and follow the prompts as shown in the following figure.
  
  ![Install wizard](/nodeinstall.PNG)
+ 
+ 3. Restart the computer to run the Node.js.
+ 
+ 
+ #### Test Node.js
+  Please make sure you have both Node and NPM (node package manager) installed successfully by running following commands and run the simple test.
+  
+  1. **Node Test:** please open a command prompt and run this command `node -v`, this should print current verison you installed.
+  2. **NPM Test:** NPM is the node package manager which installs all dependencies by reading through package.json at the root level of the project. please open a command prompt and run this command `npm -v`, this should print current verison you installed.
+  
