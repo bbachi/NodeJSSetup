@@ -15,3 +15,6 @@
  
  1. Download windows installer from https://nodejs.org/en/. Install the version **v6.10.1 LTS** since the major version IBM AIX supports is this version.
  2. Run the installer (.msi) and follow the prompts as shown in the following figure.
+ 
+ ![Install wizard](/nodeinstall.PNG)
+  Format: ![Alt Text](url)
