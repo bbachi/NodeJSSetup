@@ -28,5 +28,6 @@
   2. **NPM Test:** NPM is the node package manager which installs all dependencies by reading through package.json at the root level of the project. please open a command prompt and run this command `npm -v`, this should print current verison you installed.
   3. Make sure set the environment variable to run node globally.
   ![environemnt var](/nodeenv.png)
-  4. take this file `testnode.js` and run it in command prompt `node testnode.js`.
+  4. take this file `testnode.js` and run it in command prompt `node testnode.js`. Please take a look at the image below.
+   ![Node Test](/images/testnode.png)
   
