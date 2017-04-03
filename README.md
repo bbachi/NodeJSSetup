@@ -64,3 +64,7 @@
   4. copy the ibm-6.10.0.0-node-v6.10.0-aix-ppc64.bin to this folder and run the following command `sh ibm-6.10.0.0-node-v6.10.0-aix-ppc64.bin` and select the language and follow the prompts until you see the following screen.
   
   5. please enter the path for default installation and create links as same `/apps01/nodeJS/nodeAIX-6.10.0.0`.
+  
+  6. all the folders should like this after the installation.
+  
+   ![after install](/images/afterinstall.png)
