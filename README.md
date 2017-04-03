@@ -56,3 +56,6 @@
   ![a agree](/images/iagree.png)
   
   ![a agree](/images/downloadfolder.png)
+  
+  3. once downloaded, make a directory with the following command in unix shell.
+  `mkdir /apps01/nodeJS/nodeAIX-6.10.0.0`
