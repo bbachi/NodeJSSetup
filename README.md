@@ -57,5 +57,8 @@
   
   ![a agree](/images/downloadfolder.png)
   
+  
   3. once downloaded, make a directory with the following command in unix shell.
   `mkdir /apps01/nodeJS/nodeAIX-6.10.0.0`
+  
+  4. copy the ibm-6.10.0.0-node-v6.10.0-aix-ppc64.bin to this folder and run the following command `sh ibm-6.10.0.0-node-v6.10.0-aix-ppc64.bin` and select the language and follow the prompts until you see the following screen.
