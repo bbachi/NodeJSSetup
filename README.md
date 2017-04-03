@@ -46,7 +46,9 @@
    
     #### Installation Steps
     
-  Download IBM SDK for Node.js, Version 6 from this url https://developer.ibm.com/node/sdk/v6/ and select the AIX on Power Systems          64-bit and click on i agree link on the next page will download ibm-6.10.0.0-node-v6.10.0-aix-ppc64.bin. please follow the images below.
+  1. Download IBM SDK for Node.js, Version 6 from this url https://developer.ibm.com/node/sdk/v6/ and select the AIX on Power Systems          64-bit and click on i agree link on the next page will download ibm-6.10.0.0-node-v6.10.0-aix-ppc64.bin. please follow the images below.
+  
+  2. it can be downloaded directly from this root folder of this project.
   
   ![select aix](/images/downloadaix.png)
   
