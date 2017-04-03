@@ -37,4 +37,19 @@
    
    
    ## IBM AIX Setup
+   
+   ### Step1: Install Node.js
+   
+   #### Installation Overview
+   
+   installing node js requires IBM SDK for node.js provided by IBM Developer works. f your application requires any third-party Node.js modules, ensure that they are installed correctly.Check that the system PATH variable includes the directory location of the IBM SDK for Node.js executable program. If the PATH variable does not contain the installation directory, your system cannot find the executable program, and your application cannot run.
+   
+    #### Installation Steps
+    
+    1. Download IBM SDK for Node.js, Version 6 from this url https://developer.ibm.com/node/sdk/v6/ and select the AIX on Power Systems 64-bit and click on i agree link on the next page will download ibm-6.10.0.0-node-v6.10.0-aix-ppc64.bin. please follow the images below.
   
+  ![select aix](/images/downloadaix.png)
+  
+  ![a agree](/images/iagree.png)
+  
+  ![a agree](/images/downloadfolder.png)
