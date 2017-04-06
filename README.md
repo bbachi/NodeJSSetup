@@ -35,6 +35,14 @@
   
    ![Node Test](/images/testnode.png)
    
+##### Environment Variables
+    
+   please add environment variable as APPDATA with value `C:\Users\XXXX\AppData\Roaming\` and add this path to the path variable.
+    
+   Edit "PATH" environment variable and add %APPDATA%\npm
+   
+   This makes sure that all the global installtions work anywhere.
+   
    
    ## IBM AIX Setup
    
