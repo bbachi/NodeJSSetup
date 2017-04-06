@@ -1,7 +1,7 @@
 
 # Getting Started
 
-*If you've previously installed gulp globally, run `npm rm --global gulp` before following these instructions.*
+THis is the build tool for the NodeJS project. we can run all kinds of tasks zipping, compiling, transpiling etc..
 
 #### Install the `gulp` command
 
@@ -37,6 +37,6 @@ Run the gulp command in your project directory:
 gulp
 ```
 
-Voila! The default task will run and do nothing.
+Voila! The default task will run and do nothing
 
 To run multiple tasks, you can use `gulp <task> <othertask>`.
